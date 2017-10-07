@@ -1,0 +1,23 @@
+.title{
+    background-color: goldenrod;
+    width:1200px;
+    height:60px;
+    margin-top: -40px;
+
+}
+p{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-family: 'Alfa Slab One', cursive;
+}
+.button{
+    background-color: gold;
+    width: 1200px;
+    height: 30px;
+}
+button {
+    margin-left: 20px;
+    color: goldenrod;
+    margin-top: 5px;
+}
